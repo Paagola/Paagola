@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=¡Hola!%20Soy%20Víctor%20Pagola&fontSize=50&fontAlignY=38&fontColor=FFFFFF" alt="¡Hola! Soy Víctor Pagola"/>
 </div>
   <a href="https://github.com/Paagola">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&color=00E7FF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Apasionado+por+la+Automatizaci%C3%B3n+y+la+IA;Aprendiendo+y+Creando+Siempre" alt="Frases Interactivas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&color=00E7FF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Automatizaci%C3%B3n+e+IA;Aprendiendo+y+Creando+Siempre" alt="Frases Interactivas" />
 
     
   </a>
