@@ -1,15 +1,13 @@
 <div align="center">
-  <h1>
     <div align="center" class="titulo">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=¡Hola!%20Soy%20Víctor%20Pagola&fontSize=50&fontAlignY=38&fontColor=FFFFFF" alt="¡Hola! Soy Víctor Pagola"/>
-
-  <br>
 </div>
-  </h1>
   <a href="https://github.com/Paagola">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=4000&color=00E7FF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Apasionado+por+la+Automatizaci%C3%B3n+y+la+IA;Aprendiendo+y+Creando+Siempre" alt="Frases Interactivas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&color=00E7FF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Apasionado+por+la+Automatizaci%C3%B3n+y+la+IA;Aprendiendo+y+Creando+Siempre" alt="Frases Interactivas" />
+
+    
   </a>
-  <br>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=paagola&style=flat-square&color=blueviolet" alt="Contador de Visitas"/>
 </div>
 
@@ -38,7 +36,7 @@
     <p>
       <img src="https://img.shields.io/badge/-Málaga-darkblue?style=flat-square&logo=google-maps" alt="Ubicación: Alhaurín de la Torre, Málaga"/>
       <img src="https://img.shields.io/badge/-D.A.M%20(1%C2%BA%20a%C3%B1o)-blue?style=flat-square&logo=gitbook" alt="Estudios: Desarrollo de Aplicaciones Multiplataforma"/>
-      <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20B1%20(B2)-red?style=flat-square&logo=google-translate" alt="Idioma: Inglés B1 (preparando B2)"/>
+      <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20B1%20(Sac%C3%A1ndome%20B2)-red?style=flat-square&logo=google-translate" alt="Idioma: Inglés B1 (preparando B2)"/>
     </p>
   </div>
   
