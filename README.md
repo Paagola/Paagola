@@ -7,7 +7,7 @@
 </div>
   </h1>
   <a href="https://github.com/Paagola">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Apasionado+por+la+Automatizaci%C3%B3n+y+la+IA;Aprendiendo+y+Creando+Siempre" alt="Frases Interactivas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=4000&color=00E7FF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Apasionado+por+la+Automatizaci%C3%B3n+y+la+IA;Aprendiendo+y+Creando+Siempre" alt="Frases Interactivas" />
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=paagola&style=flat-square&color=blueviolet" alt="Contador de Visitas"/>
