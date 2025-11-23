@@ -65,14 +65,13 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Paagola/portfolio">
-        <!-- CAMBIA LA URL DE ABAJO POR TU IMAGEN DEL PORTFOLIO -->
-        <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=Mi+Portfolio" alt="Portfolio Víctor Pagola" width="100%" />
+        <img src="img/Captura de pantalla 2025-11-23 194657.png" alt="Portfolio Víctor Pagola" width="100%" />
       </a>
       <br>
       <h3>🌐 Mi Portfolio Web</h3>
       <p>Mi carta de presentación digital. Diseño moderno y responsive.</p>
       <a href="https://github.com/Paagola/portfolio">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
+        <img src="img/Captura de pantalla 2025-11-23 195307.png" />
       </a>
       <a href="https://victorpagola-seven.vercel.app/">
         <img src="https://img.shields.io/badge/Ver-Demo_Online-success?style=flat-square&logo=vercel" />
@@ -96,7 +95,7 @@
         <img src="https://via.placeholder.com/300x150/3776AB/FFFFFF?text=Próximo+Proyecto" alt="Proyecto 3" width="100%" />
       </a>
       <br>
-      <h3>💻 Proyecto Destacado 3</h3>
+      <h3>💻 Verificador Código Paquetes/h3>
       <p>Espacio reservado para tu siguiente gran desarrollo o herramienta.</p>
       <a href="https://github.com/Paagola/relojArenaJava">
         <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
