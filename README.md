@@ -95,7 +95,7 @@
       <br>
       <h3>💻 Verificador Código Paquetes</h3>
       <p>Introduce un código de paquete y verifica si és válido, inválido o si el dígito de control es el inválido se devuelve el código en formato válido.</p>
-      <a href="https://github.com/Paagola/relojArenaJava">
+      <a href="https://github.com/Paagola/verifiacionCodigoPaquetes">
         <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
       </a>
     </td>
