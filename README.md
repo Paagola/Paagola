@@ -71,7 +71,7 @@
       <h3>🌐 Mi Portfolio Web</h3>
       <p>Mi carta de presentación digital. Diseño moderno y responsive.</p>
       <a href="https://github.com/Paagola/portfolio">
-        <img src="img/Captura de pantalla 2025-11-23 195307.png" />
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
       </a>
       <a href="https://victorpagola-seven.vercel.app/">
         <img src="https://img.shields.io/badge/Ver-Demo_Online-success?style=flat-square&logo=vercel" />
@@ -79,8 +79,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Paagola/relojArenaJava">
-        <!-- CAMBIA LA URL DE ABAJO POR TU IMAGEN DEL RELOJ -->
-        <img src="https://via.placeholder.com/300x150/ED8B00/FFFFFF?text=Reloj+Arena+Java" alt="Reloj Arena Java" width="100%" />
+        <img src="img/Captura de pantalla 2025-11-23 195708.png" alt="Reloj Arena Java" width="100%" />
       </a>
       <br>
       <h3>⏳ Reloj de Arena (Java)</h3>
@@ -91,12 +90,11 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Paagola/relojArenaJava">
-        <!-- CAMBIA LA URL DE ABAJO O EL ENLACE SI TIENES OTRO PROYECTO -->
-        <img src="https://via.placeholder.com/300x150/3776AB/FFFFFF?text=Próximo+Proyecto" alt="Proyecto 3" width="100%" />
+        <img src="img/Captura de pantalla 2025-11-23 195307.png" alt="Proyecto 3" width="100%" />
       </a>
       <br>
-      <h3>💻 Verificador Código Paquetes/h3>
-      <p>Espacio reservado para tu siguiente gran desarrollo o herramienta.</p>
+      <h3>💻 Verificador Código Paquetes</h3>
+      <p>Introduce un código de paquete y verifica si és válido, inválido o si el dígito de control es el inválido se devuelve el código en formato válido.</p>
       <a href="https://github.com/Paagola/relojArenaJava">
         <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
       </a>
