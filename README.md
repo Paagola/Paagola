@@ -1,87 +1,150 @@
 <div align="center">
-    <div align="center" class="titulo">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=¡Hola!%20Soy%20Víctor%20Pagola&fontSize=50&fontAlignY=38&fontColor=FFFFFF" alt="¡Hola! Soy Víctor Pagola"/>
-</div>
+  
+  <!-- HEADER ANIMADO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=¡Hola!%20Soy%20Víctor%20Pagola&fontSize=50&fontAlignY=40&fontColor=FFFFFF" alt="Header Víctor Pagola"/>
+
+  <!-- SUBTÍTULO DINÁMICO -->
   <a href="https://github.com/Paagola">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Automatizaci%C3%B3n+e+IA;Aprendiendo+y+Creando+Siempre" alt="Frases Interactivas" />
-
-    
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=3500&color=FFFFFF&center=true&vCenter=true&width=600&lines=JAVA+%2F+PYTHON+DEVELOPER;IT+TECHNICIAN;Automatización+e+IA;Transformando+ideas+en+código" alt="Typing SVG" />
   </a>
+
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=paagola&style=flat-square&color=blueviolet" alt="Contador de Visitas"/>
-</div>
 
-<br>
-
-<div align="center">
+  <!-- REDES SOCIALES -->
   <a href="https://www.linkedin.com/in/pagola/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:victorpagola.w@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mi Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=paagola&style=flat-square&color=blueviolet&label=Vistas+al+Perfil" alt="Contador de Visitas"/>
+
 </div>
 
-<br>
-
-<h2>Desarrollador y Técnico: Un Perfil Completo</h2>
-  
-  <p>
-    Soy un profesional proactivo y creativo con un interés muy marcado en el desarrollo de software. Mi objetivo es simple: <b>transformar ideas en proyectos reales con código innovador</b>.
-  </p>
-  
-  <br>
-  
-  <div align="center">
-    <p>
-      <img src="https://img.shields.io/badge/-Málaga-darkblue?style=flat-square&logo=google-maps" alt="Ubicación: Alhaurín de la Torre, Málaga"/>
-      <img src="https://img.shields.io/badge/-D.A.M%20(1%C2%BA%20a%C3%B1o)-blue?style=flat-square&logo=gitbook" alt="Estudios: Desarrollo de Aplicaciones Multiplataforma"/>
-      <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20B1%20(Sac%C3%A1ndome%20B2)-red?style=flat-square&logo=google-translate" alt="Idioma: Inglés B1 (preparando B2)"/>
-    </p>
-  </div>
-  
-  <br>
-
-  <details>
-    <summary><b>¿Quieres saber cómo combino mi perfil de desarrollo y soporte IT? Haz clic aquí.</b></summary>
-    <br>
-    <p>
-      Mi experiencia combina de forma sólida el desarrollo 
-      ( <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/> / <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> )
-      con el <b>soporte y la administración de sistemas TI</b>. Esta dualidad me ofrece una perspectiva completa para entender y automatizar los procesos de principio a fin.
-    </p>
-    <p>
-      Tengo una gran facilidad para aprender rápido y soy un entusiasta de la colaboración, siempre buscando la mejor manera de aplicar la <b>Inteligencia Artificial</b> para mejorar la eficiencia y la productividad empresarial.
-    </p>
-  </details>
- <br>
 <hr>
-<br>
-<div align="left">
-  <h2>Mi Stack Tecnológico</h2>
-  <p>Estas son algunas de las tecnologías con las que trabajo y estudio actualmente:</p>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Server"/>
-  </p>
-</div>
-<br>
-<hr>
-<br>
+
+<!-- SECCIÓN SOBRE MÍ -->
+<h2 align="center">👨‍💻 Desarrollador y Técnico: Un Perfil Completo</h2>
+
+<p align="center">
+  Soy un profesional proactivo y creativo con un enfoque híbrido entre el <b>Desarrollo de Software</b> y el <b>Soporte IT</b>. Mi objetivo es transformar ideas en proyectos reales mediante código innovador y eficiente.
+</p>
+
 <div align="center">
-  <h2>Mis Estadísticas en GitHub</h2>
+  <img src="https://img.shields.io/badge/-Málaga-darkblue?style=flat-square&logo=google-maps" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/-D.A.M%20(En%20curso)-blue?style=flat-square&logo=gitbook" alt="Estudios"/>
+  <img src="https://img.shields.io/badge/-Inglés%20B1%20(preparando%20B2)-red?style=flat-square&logo=google-translate" alt="Idiomas"/>
+</div>
+
+<br>
+
+<details>
+  <summary><b>✨ Haz clic para ver cómo combino Desarrollo y Soporte IT</b></summary>
+  <br>
+  <blockquote>
+    <p>
+      Mi experiencia combina de forma sólida el desarrollo backend y scripting 
+      ( <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/> / <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> )
+      con el <b>soporte y la administración de sistemas TI</b>. Esta dualidad me ofrece una perspectiva completa para entender el ciclo de vida del software y la infraestructura que lo soporta.
+    </p>
+    <p>
+      Soy un entusiasta de la <b>Inteligencia Artificial</b> aplicada a la productividad empresarial y me caracterizo por mi capacidad de aprendizaje continuo.
+    </p>
+  </blockquote>
+</details>
+
+<br>
+
+<!-- SECCIÓN PROYECTOS DESTACADOS (NUEVA) -->
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Paagola/portfolio">
+        <!-- CAMBIA LA URL DE ABAJO POR TU IMAGEN DEL PORTFOLIO -->
+        <img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=Mi+Portfolio" alt="Portfolio Víctor Pagola" width="100%" />
+      </a>
+      <br>
+      <h3>🌐 Mi Portfolio Web</h3>
+      <p>Mi carta de presentación digital. Diseño moderno y responsive.</p>
+      <a href="https://github.com/Paagola/portfolio">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
+      </a>
+      <a href="https://victorpagola-seven.vercel.app/">
+        <img src="https://img.shields.io/badge/Ver-Demo_Online-success?style=flat-square&logo=vercel" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Paagola/relojArenaJava">
+        <!-- CAMBIA LA URL DE ABAJO POR TU IMAGEN DEL RELOJ -->
+        <img src="https://via.placeholder.com/300x150/ED8B00/FFFFFF?text=Reloj+Arena+Java" alt="Reloj Arena Java" width="100%" />
+      </a>
+      <br>
+      <h3>⏳ Reloj de Arena (Java)</h3>
+      <p>Simulación lógica o gráfica de un reloj de arena desarrollada en Java.</p>
+      <a href="https://github.com/Paagola/relojArenaJava">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Paagola/relojArenaJava">
+        <!-- CAMBIA LA URL DE ABAJO O EL ENLACE SI TIENES OTRO PROYECTO -->
+        <img src="https://via.placeholder.com/300x150/3776AB/FFFFFF?text=Próximo+Proyecto" alt="Proyecto 3" width="100%" />
+      </a>
+      <br>
+      <h3>💻 Proyecto Destacado 3</h3>
+      <p>Espacio reservado para tu siguiente gran desarrollo o herramienta.</p>
+      <a href="https://github.com/Paagola/relojArenaJava">
+        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- STACK TECNOLÓGICO -->
+<h2 align="center">🛠️ Stack Tecnológico</h2>
+
+<div align="center">
+  
+  **Lenguajes de Programación**<br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+
+  <br><br>
+
+  **Desarrollo Web & Data**<br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy"/>
+
+  <br><br>
+
+  **Sistemas & Herramientas**<br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<!-- ESTADÍSTICAS -->
+<div align="center">
+  <h2>📊 Mis Estadísticas en GitHub</h2>
   <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paagola&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9f9f9f&icon_color=0077B5" alt="Estadísticas de GitHub de Paagola" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paagola&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9f9f9f&icon_color=0077B5" alt="Lenguajes más usados por Paagola" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paagola&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9f9f9f&icon_color=0077B5&bg_color=00000000" alt="Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paagola&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9f9f9f&icon_color=0077B5&bg_color=00000000" alt="Top Langs" />
   </p>
 </div>
