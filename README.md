@@ -27,9 +27,9 @@
 <hr>
 
 <!-- SECCIÓN SOBRE MÍ -->
-<h2 align="center">👨‍💻 Desarrollador y Técnico: Un Perfil Completo</h2>
+<h2 align="center">Desarrollador y Técnico: Un Perfil Completo</h2>
 
-<p align="center">
+<p >
   Soy un profesional proactivo y creativo con un enfoque híbrido entre el <b>Desarrollo de Software</b> y el <b>Soporte IT</b>. Mi objetivo es transformar ideas en proyectos reales mediante código innovador y eficiente.
 </p>
 
@@ -42,7 +42,7 @@
 <br>
 
 <details>
-  <summary><b>✨ Haz clic para ver cómo combino Desarrollo y Soporte IT</b></summary>
+  <summary><b>Haz clic para ver cómo combino Desarrollo y Soporte IT</b></summary>
   <br>
   <blockquote>
     <p>
@@ -59,7 +59,7 @@
 <br>
 
 <!-- SECCIÓN PROYECTOS DESTACADOS (NUEVA) -->
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2 align="center">Proyectos Destacados</h2>
 
 <table align="center">
   <tr>
@@ -108,7 +108,7 @@
 <br>
 
 <!-- STACK TECNOLÓGICO -->
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+<h2 align="center">Stack Tecnológico</h2>
 
 <div align="center">
   
@@ -142,7 +142,7 @@
 
 <!-- ESTADÍSTICAS -->
 <div align="center">
-  <h2>📊 Mis Estadísticas en GitHub</h2>
+  <h2>Mis Estadísticas en GitHub</h2>
   <p>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paagola&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9f9f9f&icon_color=0077B5&bg_color=00000000" alt="Stats" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paagola&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9f9f9f&icon_color=0077B5&bg_color=00000000" alt="Top Langs" />
