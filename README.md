@@ -68,7 +68,7 @@ perfil:
 
 ### 🌐 **Portfolio Personal**
 
-![Portfolio](img/Captura%20de%20pantalla%202025-11-23%20194657.png)
+<img src="img/Captura%20de%20pantalla%202025-11-23%20194657.png" width="400" height="250" style="object-fit: cover; border-radius: 10px;" alt="Portfolio">
 
 <sub>Sitio web profesional con diseño moderno y responsive</sub>
 
@@ -84,7 +84,7 @@ perfil:
 
 ### ⏳ **Reloj de Arena - Java**
 
-![Reloj Arena](img/Captura%20de%20pantalla%202025-11-23%20195708.png)
+<img src="img/Captura%20de%20pantalla%202025-11-23%20195708.png" width="400" height="250" style="object-fit: cover; border-radius: 10px;" alt="Reloj Arena">
 
 <sub>Simulación interactiva con lógica avanzada en Java puro</sub>
 
@@ -101,7 +101,7 @@ perfil:
 
 ### 🔐 **Verificador de Códigos**
 
-![Verificador](img/Captura%20de%20pantalla%202025-11-23%20195307.png)
+<img src="img/Captura%20de%20pantalla%202025-11-23%20195307.png" width="400" height="250" style="object-fit: cover; border-radius: 10px;" alt="Verificador">
 
 <sub>Validación automática de códigos de paquetes</sub>
 
@@ -168,7 +168,7 @@ perfil:
 <div align="center">
 
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=27F531&center=true&vCenter=true&width=200&lines=Conectemos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=7C5F5&center=true&vCenter=true&width=200&lines=Conectemos" alt="Typing SVG" />
 </h2>
 
 ```ascii
