@@ -68,12 +68,12 @@ perfil:
 
 ### 🌐 **Portfolio Personal**
 
-<img src="img/Captura%20de%20pantalla%202025-11-23%20194657.png" width="400" height="250" style="object-fit: cover; border-radius: 10px;" alt="Portfolio">
+<img src="img/Captura%20de%20pantalla%202025-11-23%20194657.png" width="500" height="300" style="object-fit: cover; border-radius: 10px;" alt="Portfolio">
 
 <sub>Sitio web profesional con diseño moderno y responsive</sub>
 
 [![Repo](https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paagola/portfolio)
-[![Demo](https://img.shields.io/badge/🚀_Demo_Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://victorpagola-seven.vercel.app/)
+[![Demo](https://img.shields.io/badge/_Demo_Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://victorpagola-seven.vercel.app/)
 
 </div>
 
@@ -84,7 +84,7 @@ perfil:
 
 ### ⏳ **Reloj de Arena - Java**
 
-<img src="img/Captura%20de%20pantalla%202025-11-23%20195708.png" width="400" height="250" style="object-fit: cover; border-radius: 10px;" alt="Reloj Arena">
+<img src="img/Captura%20de%20pantalla%202025-11-23%20195708.png" width="500" height="300" style="object-fit: cover; border-radius: 10px;" alt="Reloj Arena">
 
 <sub>Simulación interactiva con lógica avanzada en Java puro</sub>
 
@@ -101,7 +101,7 @@ perfil:
 
 ### 🔐 **Verificador de Códigos**
 
-<img src="img/Captura%20de%20pantalla%202025-11-23%20195307.png" width="400" height="250" style="object-fit: cover; border-radius: 10px;" alt="Verificador">
+<img src="img/Captura%20de%20pantalla%202025-11-23%20195307.png" width="500" height="300" style="object-fit: cover; border-radius: 10px;" alt="Verificador">
 
 <sub>Validación automática de códigos de paquetes</sub>
 
@@ -110,7 +110,23 @@ perfil:
 </div>
 
 </td>
+<td width="50%">
 
+<div align="center">
+
+### 👾 **Atenea (demo app contra violencia de género)** **VIBECONDING**
+
+<img src="img/Captura de pantalla 2025-11-25 224920.png" width="500" height="300" style="object-fit: cover; border-radius: 10px;" alt="Verificador">
+
+<sub>App escondida para tener pruebas en caso de que estés sufriendo violencia de género.</sub>
+<sub>Parece un juego retro pero si introduce un código cuando seleccionas pause te lleva a otra apliación completamente diferente.</sub>
+
+[![Repo](https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paagola/demoVibeCodingAtenea)
+[![Demo](https://img.shields.io/badge/_Demo_Live-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://demo-atenea-pi.vercel.app/)
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
